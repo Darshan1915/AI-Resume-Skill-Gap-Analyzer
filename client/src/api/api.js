@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Set the base URL for the backend API
 const API = axios.create({
-  baseURL: "https://ai-resume-skill-gap-analyzer-1.onrender.com", // your backend URL
+  baseURL: "https://ai-resume-skill-gap-analyzer-8pyy.onrender.com/api", // your backend URL
   withCredentials: true,
 });
 
